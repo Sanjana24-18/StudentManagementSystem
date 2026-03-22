@@ -11,3 +11,9 @@ Features:
 -Add student details
 -Store data in MySQL database
 -Retrieve student records
+
+Files:
+Main.java- program entry point
+DBConnection.java- Database connection
+Student.java- Student model class
+StudentDAO.java- Handles database operations
